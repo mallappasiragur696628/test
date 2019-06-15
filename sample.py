@@ -12,6 +12,9 @@ print("d", d)
 
 print("addition of two numbers")
 print("substraction of two numbers")
+print("substraction of two numbers")
+print("substraction of two numbers")
+print("substraction of two numbers")
 
 print("which is present in sample copy branch")
 
